@@ -1,0 +1,85 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dallasbond.com" resolutions="1x" timestamp="1507742183400">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4034426765" ref="index"/>
+    <file name="index.css" crc="4037565414" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dallas-bond-header-1400x786.jpg" crc="168535327" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="video-screenshot.jpg" crc="179911603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play-button-crop-u145.png" crc="158020081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search icon.png" crc="382124153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home icon.png" crc="4178222161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="propositions icon.png" crc="3940817526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maps icon.png" crc="4283466949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bid process icon.png" crc="56670745" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="resources icon.png" crc="218134495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dallas-map-with-grey-lines-1400x705.jpg" crc="89823317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="streets of dallas-crop-u498.jpg" crc="3784578265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parks-crop-u560.jpg" crc="4102005026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fair park-crop-u574.jpg" crc="18518608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="storm drainage-crop-u581.jpg" crc="100485575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="library-crop-u642.jpg" crc="4137570315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="performing arts-crop-u635.jpg" crc="3964596367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="public safety-crop-u621.jpg" crc="3934390396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="city facilities-crop-u628.jpg" crc="3950725071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="economic development-crop-u698.jpg" crc="294527668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeless assistance-crop-u691.jpg" crc="89963776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="extra-space-tile-filler.jpg" crc="158086240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured project cover.jpg" crc="3959969633" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="390833557" seo="true" mt="1507742182045" redirect="true"/>
+</manifest>
